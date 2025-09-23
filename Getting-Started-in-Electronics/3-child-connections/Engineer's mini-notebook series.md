@@ -1,0 +1,1 @@
+A series of books written by Forrest Mims III. He states that many questions raised within the book Getting Started in Electronics can be answered within that series, as well as "other Radioshack books".
