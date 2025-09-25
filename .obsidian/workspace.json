@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "edfa9da7590f6d86",
+        "id": "dd1a94b9688ede5b",
         "type": "tabs",
         "children": [
           {
-            "id": "566a006ea99ffc94",
+            "id": "bb405cd7e369b360",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Getting-Started-in-Electronics/0-fleeting/Chapter 1 - Electricity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 1 - Electricity"
             }
           }
         ]
@@ -29,7 +34,7 @@
       {
         "id": "fe95912803677f20",
         "type": "tabs",
-        "dimension": 71.74638487208009,
+        "dimension": 56.97091273821464,
         "children": [
           {
             "id": "5072e57c945bcdcb",
@@ -81,7 +86,7 @@
       {
         "id": "2192940dcf75c811",
         "type": "tabs",
-        "dimension": 28.253615127919907,
+        "dimension": 20.060180541624874,
         "children": [
           {
             "id": "8d3148927fc85def",
@@ -91,6 +96,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4c1fce805cbeef2",
+        "type": "tabs",
+        "dimension": 22.968906720160483,
+        "children": [
+          {
+            "id": "566a006ea99ffc94",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,54 +198,54 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "566a006ea99ffc94",
+  "active": "bb405cd7e369b360",
   "lastOpenFiles": [
-    "README.md",
+    "Getting-Started-in-Electronics/3-child-connections/Engineer's mini-notebook series.md",
+    "Getting-Started-in-Electronics/0-fleeting/Chapter 1 - Electricity.md",
+    "Getting-Started-in-Electronics/3-child-connections/Electronic circuits.md",
+    "Getting-Started-in-Electronics/3-child-connections/Integrated circuits (IC's).md",
+    "Getting-Started-in-Electronics/3-child-connections/Electronic components.md",
+    "Getting-Started-in-Electronics/3-child-connections/Electricity.md",
+    "Getting-Started-in-Electronics/3-child-connections/Solid-state electronics.md",
+    "Getting-Started-in-Electronics/3-child-connections/Static electricity.md",
+    "Getting-Started-in-Electronics/3-child-connections/EX-OR.md",
+    "Getting-Started-in-Electronics/3-child-connections/NOR.md",
+    "Getting-Started-in-Electronics/3-child-connections/OR.md",
+    "Getting-Started-in-Electronics/3-child-connections/Inverter.md",
+    "Getting-Started-in-Electronics/3-child-connections/NAND.md",
+    "Getting-Started-in-Electronics/3-child-connections/AND.md",
+    "Getting-Started-in-Electronics/2-primary-connections/Logic gates.md",
+    "Getting-Started-in-Electronics/3-child-connections/Photo-resistor.md",
+    "Getting-Started-in-Electronics/3-child-connections/LASCR.md",
+    "Getting-Started-in-Electronics/3-child-connections/Photo-transistor.md",
+    "Getting-Started-in-Electronics/3-child-connections/Solar cell.md",
+    "Getting-Started-in-Electronics/3-child-connections/Photodiode.md",
+    "Getting-Started-in-Electronics/3-child-connections/LED.md",
+    "Getting-Started-in-Electronics/2-primary-connections/Photonic components.md",
+    "Getting-Started-in-Electronics/3-child-connections/P-MOSFET.md",
+    "Getting-Started-in-Electronics/3-child-connections/P-JFET.md",
+    "Getting-Started-in-Electronics/3-child-connections/N-JFET.md",
+    "Getting-Started-in-Electronics/3-child-connections/N-MOSFET.md",
+    "Getting-Started-in-Electronics/4-misc",
+    "Getting-Started-in-Electronics/3-child-connections",
+    "Getting-Started-in-Electronics/2-primary-connections",
+    "Getting-Started-in-Electronics/1-finalized",
+    "Getting-Started-in-Electronics/0-fleeting",
+    "Getting-Started-in-Electronics",
     "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/lesson-7/function-add.js",
     "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/lesson-7",
-    "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/07 - Functions.md",
-    "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/06 - Loops.md",
     "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/lesson-3/index.html",
     "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/lesson-3/app.js",
-    "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/lesson-3",
-    "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/New folder",
-    "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/01 - Tags, alerts, error messages, and data types.md",
-    "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/05 - Conditional statements.md",
-    "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/04 - Comparison operators.md",
-    "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/03 - Arithmetic Operators.md",
     "JavaScript/Learn JavaScript in 60 Minutes - The Ultimate Beginner Course/alert.png",
     "dataview-error-2-after-click.png",
     "dataview-error-1.png",
-    "0 - Fleeting/CASE-468.md",
-    "0 - Fleeting/CASE-468-1c.mp4",
-    "0 - Fleeting/Unconfirmed 936438.crdownload",
     "0 - Fleeting/CASE-468-1b.png",
-    "0 - Fleeting/Unconfirmed 90869.crdownload",
     "0 - Fleeting/CASE-468-1a.png",
-    "0 - Fleeting/Unconfirmed 551593.crdownload",
-    "0 - Fleeting/CASE-317.md",
-    "0 - Fleeting/CASE-320.md",
-    "0 - Fleeting/CASE-325.md",
-    "0 - Fleeting/CASE-518.md",
     "0 - Fleeting/CASE-518-1a.png",
-    "0 - Fleeting/CASE-425.md",
-    "0 - Fleeting/CASE-356.md",
-    "0 - Fleeting/Dev Meeting - 14 AUG 2025.md",
-    "0 - Fleeting/QA Meeting - 14 AUG 2025.md",
-    "0 - Fleeting/CASE-387.md",
-    "0 - Fleeting/CASE-387 1.md",
-    "0 - Fleeting/CASE-423.md",
-    "0 - Fleeting/CASE-516.md",
-    "0 - Fleeting/CASE-423 1.md",
     "0 - Fleeting/CASE-516-1a.png",
-    "0 - Fleeting/CASE-500.md",
-    "0 - Fleeting/CASE-393.md",
     "0 - Fleeting/CASE-393-1c.png",
     "0 - Fleeting/CASE-393-1b.png",
     "0 - Fleeting/CASE-393-1a.png",
-    "0 - Fleeting/CASE-410.md",
-    "4 - Final/12 August 2025.md",
-    "0 - Fleeting/CASE-470 1.md",
     "1 - Reference/TD Bank Canvas.canvas",
     "1 - Reference/Selenium Overview.canvas",
     "1 - Reference/Org Chart 2022.canvas",
